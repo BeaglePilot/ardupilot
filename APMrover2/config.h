@@ -195,7 +195,7 @@
 //////////////////////////////////////////////////////////////////////////////
 // THROTTLE_OUT
 //
-#ifndef THROTTE_OUT
+#ifndef THROTTLE_OUT
 # define THROTTLE_OUT			ENABLED
 #endif
 
